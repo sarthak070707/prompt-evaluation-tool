@@ -1,0 +1,63 @@
+[
+    {
+        "prompt": "Explain APIs in simple terms",
+        "response": "APIs allow different software systems to communicate by sending requests and receiving structured responses.",
+        "score": 3,
+        "reasons": [
+            "Good length",
+            "Clear explanation",
+            "Technically relevant"
+        ]
+    },
+    {
+        "prompt": "What is JSON?",
+        "response": "JSON is a lightweight data format used to store and exchange data between systems in a structured way.",
+        "score": 3,
+        "reasons": [
+            "Good length",
+            "Clear explanation",
+            "Technically relevant"
+        ]
+    },
+    {
+        "prompt": "How does AI work?",
+        "response": "AI works by training models on data to identify patterns and make predictions or decisions.",
+        "score": 3,
+        "reasons": [
+            "Good length",
+            "Clear explanation",
+            "Technically relevant"
+        ]
+    },
+    {
+        "prompt": "Explain databases",
+        "response": "A database is an organized collection of data that can be stored, managed, and retrieved efficiently.",
+        "score": 3,
+        "reasons": [
+            "Good length",
+            "Clear explanation",
+            "Technically relevant"
+        ]
+    },
+    {
+        "prompt": "What is cloud computing?",
+        "response": "Cloud computing is the delivery of computing services like storage and processing over the internet instead of local systems.",
+        "score": 3,
+        "reasons": [
+            "Good length",
+            "Clear explanation",
+            "Technically relevant"
+        ]
+    },
+    {
+        "prompt": "Explain blockchain",
+        "response": "This is a general response for: 'Explain blockchain'. It provides basic information but may lack depth.",
+        "score": 1,
+        "reasons": [
+            "Good length",
+            "Clear explanation",
+            "Technically relevant",
+            "Strong penalty for vague response"
+        ]
+    }
+]
